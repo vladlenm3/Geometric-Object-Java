@@ -15,8 +15,6 @@ This program is written in Java. Libraries used: java.text.DecimalFormat, java.u
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Java 11+ Essential Training](https://www.linkedin.com/learning/java-11-plus-essential-training)
 - [Java OOPs Concepts](https://www.javatpoint.com/java-oops-concepts)
 
